@@ -6,7 +6,7 @@ export const BUSINESS: MarigoldConfig = {
   "location": "",
   "palette": "marigold-green",
   "fontSet": "fraunces-dmsans",
-  "heroImage": "C:\\Users\\steve\\Downloads\\cafe-heros\\hide-out-cafe.jpg",
+  "heroImage": "/hero.jpg",
   "aboutQuote": "We opened Hideout Cafe to be the kind of place we missed — somewhere warm, where the bread is real, the coffee is strong and nobody is in a rush.",
   "aboutAttribution": "— The owners",
   "phone": "0131 466 1714",
